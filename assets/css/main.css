@@ -199,6 +199,10 @@ button:focus {
   background: #3b5999;
 }
 
+.social-icon .vk:hover {
+  background: #3b5999;
+}
+
 .social-icon .twitter:hover {
   background: #4A9CEC;
 }
@@ -758,6 +762,10 @@ hr {
 }
 
 .team-item .overlay-social-icon .social-icons li a:hover .lni-facebook-filled {
+  background: #3B5998;
+}
+
+.team-item .overlay-social-icon .social-icons li a:hover .lni-vk-filled {
   background: #3B5998;
 }
 
@@ -1605,6 +1613,9 @@ hr {
 .testimonial-item .icon-social .facebook:hover {
   background: #3b5999;
 }
+
+.testimonial-item .icon-social .vk:hover {
+
 
 .testimonial-item .icon-social .twitter:hover {
   background: #4A9CEC;
