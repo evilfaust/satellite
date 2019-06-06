@@ -1928,3 +1928,11 @@ textarea {
 .copyright p a:hover {
   color: #3d60f4;
 }
+
+
+
+.sectionfaust {
+	float: left;
+	width: 100%;
+	padding: 80px 0;
+}
